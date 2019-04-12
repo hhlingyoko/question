@@ -10,6 +10,9 @@
  npm run dev:less
 ```
 
+
+备注：
+>
 --config file ............ alternate nodemon.json config file to use // 备用nodemon.json配置文件使用
 -e, --ext ................ extensions to look for, ie. js,jade,hbs. // 监控指定后缀名的文件
 -x, --exec app ........... execute script with "app", ie. -x "python -v". // 执行的命令
@@ -18,3 +21,4 @@
 -i, --ignore ............. ignore specific files or directories. // 忽略特定的文件或目录
 -V, --verbose ............ show detail on what is causing restarts. // 显示导致重新启动的详细信息
 -- <your args> ........... to tell nodemon stop slurping arguments. // 告诉nodemon停止参数
+
