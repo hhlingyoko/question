@@ -23,3 +23,23 @@
 -- <your args> ........... to tell nodemon stop slurping arguments. // 告诉nodemon停止参数
 ```
 
+### 内容
+- 浏览器渲染
+- 执行上下文
+- this 作用域
+- new 
+- 原型 原型链 
+- 防抖&节流
+- 闭包
+- 深浅拷贝
+- 继承: call apply bind
+- Promise & Generator & async await
+- 跨域
+- 
+- vue  
+- vuex
+- webpack
+- es6 
+- 
+
+
